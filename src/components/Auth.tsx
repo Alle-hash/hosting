@@ -42,6 +42,7 @@ export default function Auth() {
             
           </p>
         </div>
+        <h1>Use username as user@example.com and password as pass</h1>
         <form className="mt-8 space-y-6" onSubmit={handleLogin}>
           <div className="rounded-md shadow-sm -space-y-px">
             <div>
